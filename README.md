@@ -1,3 +1,3 @@
-# hipsdontlie
+# bodysway
 
-Our final project for the DSC 106 course at UCSD.
+Hips Don't Lie - an interactive scrollytelling article delving into how boyd sway affects balance and posture
