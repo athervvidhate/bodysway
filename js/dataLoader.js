@@ -1,7 +1,7 @@
 // dataLoader.js
 async function loadData() {
-    const filePaths = { ECR: "./data/ECR_All.csv", ECN: "./data/ecn_aggregate.csv", 
-        VRN: "./data/WON_All.csv", VRM: "./data/WOR_All.csv"  
+    const filePaths = { ECR: "/data/ECR_All.csv", ECN: "/data/ecn_aggregate.csv", 
+        VRN: "/data/WON_All.csv", VRM: "/data/WOR_All.csv"  
      };
     for (let condition in filePaths) {
         try {

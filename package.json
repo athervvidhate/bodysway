@@ -1,0 +1,13 @@
+{
+  "name": "bodysway",
+  "version": "1.0.0",
+  "description": "Hips Don't Lie - Interactive scrollytelling article about body sway",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": ["data-visualization", "d3", "scrollytelling"],
+  "author": "Atherv Vidhate",
+  "license": "MIT"
+} 

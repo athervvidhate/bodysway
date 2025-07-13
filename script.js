@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', async function () {
 
 // ** Load and process data **
 async function loadData() {
-    const filePaths = { ECR: "./data/ECR_All.csv", ECN: "./data/ecn_aggregate.csv" };
+    const filePaths = { ECR: "/data/ECR_All.csv", ECN: "/data/ecn_aggregate.csv" };
     
     for (let condition in filePaths) {
         try {
